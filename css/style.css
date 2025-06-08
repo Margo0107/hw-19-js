@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(58, 150, 241);
+}
+
+.btn {
+    font-size: 15px;
+  color: #fff;
+  background: rgb(58, 150, 241);
+  border: 1px solid rgb(58, 150, 241);
+  border-radius: 5px;
+  padding: 6px 15px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: background 0.3s, border 0.3s;
+}
+.btn:hover {
+  background: rgb(115, 180, 245);
+  border: 1px solid rgb(115, 180, 245);
+}
